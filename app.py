@@ -110,7 +110,7 @@ def predict():
 # Run Flask app (Debug Mode)
 # -------------------------------
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
 
 # -------------------------------
 # (Optional) Example: Saving a scaler
