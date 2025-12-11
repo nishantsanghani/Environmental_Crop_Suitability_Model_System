@@ -1,7 +1,7 @@
 🌱 Environmental Crop Suitability Model System
 📌 Project Overview
 
-This project is a Machine Learning-based Crop Recommendation System that suggests the most suitable crop for cultivation based on soil and environmental parameters such as Nitrogen (N), Phosphorus (P), Potassium (K), Temperature, Humidity, pH, and Rainfall.
+This project is a Machine Learning-based Environmental Crop Suitability Model System that suggests the most suitable crop for cultivation based on soil and environmental parameters such as Nitrogen (N), Phosphorus (P), Potassium (K), Temperature, Humidity, pH, and Rainfall.
 
 ## The system includes:
 - A trained ML model built using agricultural datasets.
@@ -65,4 +65,4 @@ Rice is the best crop to be cultivated right there.
 - Deploy on Heroku / AWS / Azure.
 - Build a mobile app interface.
 
-Live URL: https://crop-recommendation-system-kle8.onrender.com/
+Live URL: https://environmental-crop-suitability-model.onrender.com/
