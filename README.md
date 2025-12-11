@@ -1,4 +1,4 @@
-🌱 Crop Recommendation System
+🌱 Environmental Crop Suitability Model System
 📌 Project Overview
 
 This project is a Machine Learning-based Crop Recommendation System that suggests the most suitable crop for cultivation based on soil and environmental parameters such as Nitrogen (N), Phosphorus (P), Potassium (K), Temperature, Humidity, pH, and Rainfall.
